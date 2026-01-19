@@ -1,0 +1,15 @@
+cython
+numpy
+opencv-python
+scikit-image
+scipy
+segment-anything
+torch
+torchvision
+matplotlib
+ninja
+scikit-learn
+tqdm
+tensorboard
+pandas
+ultralytics
