@@ -116,4 +116,15 @@ python inference.py --folder /path/to/folder  \
 
 
 ## 5) Citing Hierarchical Superpixel Anything Model
-Comming 
+If you use H-SPAM in your research, please use the following BibTeX entry:
+
+```
+@inproceedings{walther2026hspam,
+  title={H-SPAM: Hierarchical Superpixel Anything Model},
+  author={Walther, Julien and Giraud, Rémi and Clément, Michaël},
+  booktitle={International Conference on Pattern Recognition},
+  pages={159--174},
+  year={2026},
+  organization={Springer Nature Switzerland Cham}
+}
+```
